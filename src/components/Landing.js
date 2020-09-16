@@ -6,7 +6,6 @@ function Landing() {
       <header className="main-header">
         Text Editor
       </header>
-      <p>Input box goes here</p>
     </div>
   );
 }
